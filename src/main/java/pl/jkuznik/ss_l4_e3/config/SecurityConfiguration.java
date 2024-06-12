@@ -1,4 +1,4 @@
-package pl.jkuznik.ss_l4_e3.congi;
+package pl.jkuznik.ss_l4_e3.config;
 
 import pl.jkuznik.ss_l4_e3.security.filters.ApiKeyFilter;
 import org.springframework.beans.factory.annotation.Value;
